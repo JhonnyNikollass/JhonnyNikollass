@@ -11,6 +11,6 @@
 ### Caso queira entrar em contato, segue minhas redes abaixo!
  
 <div> 
-  <a href = "https://contacts.google.com/contact/635880b38a54bc3e?edit=1"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/u/0/?hl=pt-BR&tf=cm&fs=1&to=jhonnynikollass@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonny-nikollas-9546b823a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
